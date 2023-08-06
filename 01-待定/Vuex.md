@@ -2,12 +2,6 @@
 
 
 
-![image-20230805082417057](../../assets/image/image-20230805082417057-1195067.png)
-
-
-
-
-
 ```javascript
 <template>
   <a-form-model
