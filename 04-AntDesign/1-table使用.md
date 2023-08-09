@@ -1,5 +1,6 @@
 # table的使用
 
+![table的使用](https://gitcdn.xiaodongxier.com/image/note-page/20230809173459.png)
 
 `columns1` 为表头，`data1` 为数据源
 
