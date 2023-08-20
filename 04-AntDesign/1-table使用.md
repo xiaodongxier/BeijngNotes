@@ -2,9 +2,9 @@
 
 ![table的使用](https://gitcdn.xiaodongxier.com/image/note-page/20230809173738.png)
 
-`columns1` 为表头，`data1` 为数据源
+`columns` 为表头，`data` 为数据源
 
-其中`columns1` 中的 `dataIndex` 的值与 `data1` 中的值一一对应
+其中`columns` 中的 `dataIndex` 的值与 `data` 中的值一一对应
 
 ---
 
